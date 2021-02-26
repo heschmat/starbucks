@@ -48,3 +48,5 @@ Here is the schema and explanation of each variable in the files:
 - seaborn
 
 
+## How to run the analysis:
+Start with the EDA directory, files are ordered numerically. Each stage uses the data generated from previous steps.
