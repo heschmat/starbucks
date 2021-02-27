@@ -46,7 +46,9 @@ Here is the schema and explanation of each variable in the files:
 - pandas
 - matplotlib.pyplot
 - seaborn
+- sklearn
 
 
 ## How to run the analysis:
 Start with the EDA directory, files are ordered numerically. Each stage uses the data generated from previous steps.
+For modeling analysis, please check out the notebook: 04-model in the main repository.
